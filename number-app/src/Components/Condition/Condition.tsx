@@ -13,7 +13,7 @@ const Condition = (props: { responseObj: { found: boolean; text: React.ReactNode
                     </Typography>
                </div>
            : <div className="content">
-               <Typography>Enter a number between 0-100 to learn a fun number fact!!!</Typography>
+               <Typography>Enter a number between 0-100 to learn a fun number fac</Typography>
             </div>
            }
        </div>
